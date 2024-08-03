@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'UnicodeMonoEx';
+    src: url('./august/UnicodeMonoEx.ttf') format('truetype');
+}
+
+:root {
+  font-family: 'UnicodeMonoEx;
+}
